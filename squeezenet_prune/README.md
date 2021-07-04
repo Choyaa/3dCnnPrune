@@ -89,7 +89,7 @@ Here are some examples for (pre)training with Jester and fine-tuning with SHGD15
                  --n_epochs 60 \
                  --pretrain_path 'GeScale_3D/results/SHGD_15/SHGD_squeezenet_IRD_8_best.pth'
   ```
-###finetune with SHGD13:using pretrained (with SHGD13_sparsity) models; inputs are IR and Depth images.
+- finetune with SHGD13:using pretrained (with SHGD13_sparsity) models; inputs are IR and Depth images.
   ```
   python main.py --root_path ~/  
                  --video_path ~/SHGD/SHGD_Single \
