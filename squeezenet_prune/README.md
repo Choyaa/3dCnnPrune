@@ -1,9 +1,11 @@
-# Scaled Hand Gesture Recognition with CNNs: 3D models
+# 3dCnnPrune
 
 ### Requirements
 
 - Python 3.6
 - Pytorch 0.4 or later versions.
+- JetPack 4.5.1
+- CUDA 10.2
 - Other packages e.g. numpy, etc.
 
 ### Overview 
